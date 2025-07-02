@@ -14,5 +14,8 @@ Eu sou o **Ludgero Camilo** e estou em busca do meu objetivo de me tornar um des
 - [LinkedIn](https://www.linkedin.com/in/ludgero-camilo-0248ab289/) 
 - [GitHub](https://github.com/ludgeroxd) 
 ---
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
 
 ✨ Obrigado por visitar meu repositório! Vamos juntos nessa jornada! 🚀
