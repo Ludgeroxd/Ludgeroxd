@@ -11,10 +11,8 @@ Eu sou o **Ludgero Camilo** e estou em busca do meu objetivo de me tornar um des
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com) (adicione seu link real!)
-- [GitHub](https://github.com/seu-usuario) (seu perfil aqui)
-- Email: seu-email@example.com
-
+- [LinkedIn](https://www.linkedin.com/in/ludgero-camilo-0248ab289/) (adicione seu link real!)
+- [GitHub](https://github.com/ludgeroxd) (seu perfil aqui)
 ---
 
 ✨ Obrigado por visitar meu repositório! Vamos juntos nessa jornada! 🚀
